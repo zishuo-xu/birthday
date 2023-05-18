@@ -46,7 +46,7 @@ var config = {
         "愿你从旧衣服找到零钱": "./imgs/zdlq.jpg",
         "愿你做过的美梦全都实现": "./imgs/mmcz.jpg",
         "愿你永远都有好运气": "./imgs/hyll.jpg",
-        "男生的古怪毛病": "./imgs/wcl.jpg",
+        "男生的古怪毛病": "./imgs/kk.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
